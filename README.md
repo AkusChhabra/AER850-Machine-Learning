@@ -1,5 +1,9 @@
 <div>
-  <h1> Intro to Machine Learning (AER850) </h1>
+  <h1> Intro to Machine Learning (AER850) 
+    <a href="https://www.python.org">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="28"/>
+    </a>
+  </h1>
   <h2> Project 1: Predict Maintenance Step for Flight Simulator </h2>
   </p>
     Predict the maintenance step for the inverter of the FlightMax Fill Motion Simulator using its coordinate positions in the x, y, and z directions. The steps are broken down into 13 individual steps where the feature variables are the x, y, and z coordinates and the target variable is the maintenance step number the coordinates align to.
