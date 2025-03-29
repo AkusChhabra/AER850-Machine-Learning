@@ -18,14 +18,27 @@
     The focus of this project is to detect cracks from a fatigue test and classify them based on a set of four labels: large, medium, small, and none. A deep convolutional neural network will be implemented for image recognition where provided crack images are classified based on the aforementioned labels and a trained model will provide its prediction of the image’s classification. 
   </p>&nbsp
   <p>
-  The figures below indicate the results of the CNN model.
+  The figures below indicate the results of the CNN model <em><strong>without</strong></em> model refinement.
   </p>
-  <a>
-    <img src="https://github.com/user-attachments/assets/79a3d100-6f5a-408c-9ee4-2dd4d0cba2fc">
-  </a>
+  <p align="center">
     <a>
-    <img src="https://github.com/user-attachments/assets/27615788-a116-44ad-a207-49b50508b85c">
-  </a>&nbsp
+      <img src="https://github.com/user-attachments/assets/79a3d100-6f5a-408c-9ee4-2dd4d0cba2fc">
+    </a>
+    <a>
+      <img src="https://github.com/user-attachments/assets/27615788-a116-44ad-a207-49b50508b85c">
+    </a>&nbsp
+  </p>
+  <p>
+  The figures below indicate the results of the CNN model <em><strong>with</strong></em> model refinement.
+  </p>
+  <p align="center">
+    <a>
+      <img src="https://github.com/user-attachments/assets/441694cb-c605-4036-ad9b-3fe7dd612cb6" width="230">
+    </a>
+      <a>
+      <img src="https://github.com/user-attachments/assets/d37f2e5a-e782-4af9-86cc-45479012b0dc" width="227">
+    </a>&nbsp
+  </p>
   <h6> Data omitted for project 2 due to file size restrictions on GitHub. </h6>
   <h2> Project 3: Streamline PCB Verification Process </h2>
   <p>
